@@ -32,11 +32,11 @@ LinkedIn: https://www.linkedin.com/in/joangerard/
     <img src="https://user-images.githubusercontent.com/74309059/158705533-b174261d-5782-41ac-b8c8-ce7fb5da579c.png" alt="react"              width="40" height="40"/> 
     </a>
   </a>
-  <a target="_blank" href="https://icons8.com/icon/zdI5E8moxhs-/graphql">
+  <a target="_blank" href="">
     <img src="https://img.icons8.com/color/48/000000/graphql.png"/>
   </a>
-  <a href="https://git-scm.com/" target="_blank"> 
-    <img src="https://img.icons8.com/color/48/000000/redux.png" alt="react" width="40" height="40"/>
+  <a target="_blank" href="https://icons8.com/icon/ktSS1TBte4xa/apollo">
+    <img src="https://img.icons8.com/color/48/000000/apollo.png"/>
   </a>
 
 </p><br>
