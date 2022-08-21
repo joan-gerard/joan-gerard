@@ -2,7 +2,7 @@ Hi there 👋
 
 ✍️ About me
 
-I am a Full-stack Javascript developer with a background linguistics and project management.<br> 
+I am a Full-stack Javascript developer with a background in linguistics and project management.<br> 
 I graduated from Salt Bootcamp end of March 2022.<br>
 
 📬 Where to find me
@@ -21,7 +21,7 @@ LinkedIn: https://www.linkedin.com/in/joangerard/
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a> 
-    <a>
+  <a>
     <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="typescript" width="40" height="40"/>
   </a>
@@ -30,9 +30,12 @@ LinkedIn: https://www.linkedin.com/in/joangerard/
   </a>
     <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://user-images.githubusercontent.com/74309059/158705533-b174261d-5782-41ac-b8c8-ce7fb5da579c.png" alt="react"              width="40" height="40"/> 
+    </a>
   </a>
-   </a>
-    <a href="https://git-scm.com/" target="_blank"> 
+  <a target="_blank" href="https://icons8.com/icon/zdI5E8moxhs-/graphql">
+    <img src="https://img.icons8.com/color/48/000000/graphql.png"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://img.icons8.com/color/48/000000/redux.png" alt="react" width="40" height="40"/>
   </a>
 
