@@ -33,10 +33,10 @@ LinkedIn: https://www.linkedin.com/in/joangerard/
     </a>
   </a>
   <a target="_blank" href="">
-    <img src="https://img.icons8.com/color/48/000000/graphql.png"/>
+    <img src="https://img.icons8.com/color/48/000000/graphql.png" alt="graphql" width="40" height="40"/>
   </a>
   <a target="_blank" href="https://icons8.com/icon/ktSS1TBte4xa/apollo">
-    <img src="https://img.icons8.com/color/48/000000/apollo.png"/>
+    <img src="https://img.icons8.com/color/48/000000/apollo.png" alt="apollo software" width="40" height="40"/>
   </a>
 
 </p><br>
