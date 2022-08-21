@@ -10,7 +10,7 @@ I graduated from Salt Bootcamp end of March 2022.<br>
 Portfolio: https://www.joan-gerard-dev.com/<br>
 LinkedIn: https://www.linkedin.com/in/joangerard/
 
-<b>:brain: &nbsp;Languages and technologies</b></summary><br/>
+<b>:brain: &nbsp;Most used languages and technologies</b></summary><br/>
 <p align="left"> 
   <a href="https://www.w3schools.com/css/" target="_blank">  
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
@@ -37,6 +37,9 @@ LinkedIn: https://www.linkedin.com/in/joangerard/
   </a>
   <a target="_blank" href="https://icons8.com/icon/ktSS1TBte4xa/apollo">
     <img src="https://img.icons8.com/color/48/000000/apollo.png" alt="apollo software" width="40" height="40"/>
+  </a>
+  <a target="_blank" href="https://icons8.com/icon/74402/mongodb">
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="mongo db" width="40" height="40"/>
   </a>
 
 </p><br>
