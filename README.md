@@ -7,7 +7,7 @@ I graduated from Salt Bootcamp end of March 2022.<br>
 
 📬 Where to find me
 
-Portfolio: https://www.joan-gerard-dev.com/<br>
+Portfolio: https://joan-gerard.netlify.app/<br>
 LinkedIn: https://www.linkedin.com/in/joangerard/
 
 <b>:brain: &nbsp;Most used languages and technologies</b></summary><br/>
