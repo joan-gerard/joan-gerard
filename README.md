@@ -42,7 +42,7 @@ LinkedIn: https://www.linkedin.com/in/joangerard/
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="mongo db" width="40" height="40"/>
   </a>
   <a target="_blank" href="https://img.icons8.com/color/48/000000/amazon-web-services.png">
-  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="amazon web services"/>
+  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="amazon web services" width="40" height="40"/>
   </a>
 
 </p><br>
