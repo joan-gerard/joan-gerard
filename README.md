@@ -5,7 +5,7 @@ Hi there 👋
 I am a Full-stack Javascript developer with a background in linguistics and project management.<br> 
 I graduated from Salt Bootcamp end of March 2022.<br>
 
-I am currently building Serverless AWS Backend applications. A summary of these projects can be found [here](https://github.com/joan-gerard/AWS_Serverless_Projects)
+I am currently building Serverless <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="amazon web services" width="40" height="40"/> Backend applications. A summary of these projects can be found [here](https://github.com/joan-gerard/AWS_Serverless_Projects)
 
 📬 Where to find me
 
